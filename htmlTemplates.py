@@ -42,3 +42,15 @@ user_template = '''
     <div class="message">{{MSG}}</div>
 </div>
 '''
+file_path ='C:\\Users\\TEZA\\Downloads\\EV-logo.png'
+logo_template ='''
+<div class="chat-message user container"> 
+   <div class="row">
+    <div class="col-md-6">
+       <img src="https://media.licdn.com/dms/image/C5603AQF1OI7dIpySdA/profile-displayphoto-shrink_400_400/0/1634469252304?e=2147483647&v=beta&t=-LYzM4ZBpKmyJf9BXnHYVL5FZtX0cq-UttE2Gnn_ygw" style="max-height: 78px; max-width: 78px; border-radius: 50%; object-fit: cover;"> <span class="mx-auto" style="
+    margin-left: 20px;font-weight: bold;font-size: xx-large;"> ElectroAid - Your EV Repair Advisor</span>
+    </div>
+  </div>
+</div>
+</div>
+'''
